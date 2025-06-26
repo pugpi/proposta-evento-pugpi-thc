@@ -24,7 +24,7 @@ proposta-evento-pugpi-thc/
 ## Arquivos Principais
 
 ### 📋 README.md
-- **Propósito**: Página de entrada do repositório
+- **Propósito**: Página principal exibida por padrão no GitHub
 - **Conteúdo**: Visão geral, links rápidos, como contribuir
 - **Tom**: Convidativo e acolhedor
 
@@ -92,6 +92,8 @@ proposta-evento-pugpi-thc/
 - Issues e Pull Requests
 - Múltiplos canais de comunicação
 
+> 💡 Para novas seções ou categorias, prefira criar subpastas com um `README.md` explicando seu conteúdo.
+
 ## Próximos Passos
 
 1. **Configurar GitHub**: Seguir instruções em `GITHUB_SETUP.md`
@@ -101,4 +103,4 @@ proposta-evento-pugpi-thc/
 
 ---
 
-*Esta estrutura transforma o repositório em uma plataforma viva para colaboração e discussão sobre o evento PUG-PI & THC.* 
+*Esta estrutura transforma o repositório em uma plataforma viva para colaboração e discussão sobre o evento PUG-PI & THC.*
