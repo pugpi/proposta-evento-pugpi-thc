@@ -2,7 +2,7 @@
 
 ## Nosso Compromisso
 
-No interesse de promover um ambiente aberto, acolhedor e seguro, nós, como contribuidores e mantenedores, nos comprometemos a fazer da participação em nosso projeto e em nossa comunidade uma experiência livre de assédio para todos — independentemente de idade, tamanho corporal, deficiência, etnia, características sexuais, identidade e expressão de gênero, nível de experiência, educação, status socioeconômico, nacionalidade, aparência pessoal, raça, religião ou identidade e orientação sexual.
+No interesse de promover um ambiente aberto, acolhedor e seguro, nós, como pessoas contribuidoras e mantenedoras, nos comprometemos a fazer da participação em nosso projeto e em nossa comunidade uma experiência livre de assédio para todas as pessoas, independentemente de idade, tamanho corporal, deficiência, etnia, características sexuais, identidade e expressão de gênero, nível de experiência, educação, status socioeconômico, nacionalidade, aparência pessoal, raça, religião ou identidade e orientação sexual.
 
 ## Nossos Padrões
 
@@ -12,7 +12,7 @@ Exemplos de comportamento que contribuem para criar um ambiente positivo incluem
 - Respeitar diferentes pontos de vista e experiências
 - Aceitar graciosamente críticas construtivas
 - Focar no que é melhor para a comunidade
-- Demonstrar empatia e gentileza com outros membros da comunidade
+- Demonstrar empatia e gentileza com outras pessoas da comunidade
 
 Exemplos de comportamento inaceitável incluem:
 
@@ -24,9 +24,9 @@ Exemplos de comportamento inaceitável incluem:
 
 ## Nossas Responsabilidades
 
-Os mantenedores do projeto são responsáveis por esclarecer os padrões de comportamento aceitável e por tomar medidas justas e proporcionais diante de qualquer caso de comportamento inadequado.
+As pessoas mantenedoras do projeto são responsáveis por esclarecer os padrões de comportamento aceitável e por tomar medidas justas e proporcionais diante de qualquer caso de comportamento inadequado.
 
-Eles têm o direito e a responsabilidade de remover, editar ou rejeitar comentários, commits, edições de wiki, issues e outras contribuições que não estejam alinhadas com este Código de Conduta. Quando apropriado, comunicarão de forma transparente os motivos das decisões de moderação.
+Elas têm o direito e a responsabilidade de remover, editar ou rejeitar comentários, commits, edições de wiki, issues e outras contribuições que não estejam alinhadas com este Código de Conduta. Quando apropriado, comunicarão de forma transparente os motivos das decisões de moderação.
 
 Nosso objetivo sempre será promover educação e reconciliação quando possível, e não apenas punição imediata. Em casos mais graves ou reincidentes, medidas mais firmes poderão ser adotadas.
 
@@ -40,7 +40,7 @@ Casos de comportamento abusivo, assédio ou qualquer violação deste código po
 
 Todas as denúncias serão levadas a sério, analisadas com imparcialidade e resultarão em uma resposta proporcional ao ocorrido.
 
-Mantenedores que não seguirem ou aplicarem este Código de Conduta de boa-fé podem estar sujeitos a repercussões temporárias ou permanentes, conforme determinado por outros membros da liderança do projeto.
+Pessoas mantenedoras que não seguirem ou aplicarem este Código de Conduta de boa-fé podem estar sujeitas a repercussões temporárias ou permanentes, conforme determinado por outras lideranças do projeto.
 
 **Caso você precise de apoio, fale com a gente. Estamos aqui para ouvir.**
 
@@ -55,7 +55,7 @@ Para reportar violações deste código ou tirar dúvidas, use um dos canais aba
 
 ## Aplicação no Evento
 
-Este código de conduta também se aplica a eventos presenciais. Participantes que violarem este código poderão ser convidados a se retirar do evento, sem reembolso, a critério dos organizadores.
+Este código de conduta também se aplica a eventos presenciais. Participantes que violarem este código poderão ser convidades a se retirar do evento, sem reembolso, a critério da organização.
 
 ## Atribuição
 
@@ -65,4 +65,4 @@ Para perguntas frequentes sobre este código, consulte: https://www.contributor-
 
 ---
 
-*Juntos, criamos um ambiente onde todos se sentem bem-vindos, respeitados e seguros.*
+*Juntas, juntos e juntes, criamos um ambiente onde todas as pessoas se sintam bem-vindas, respeitadas e seguras.*
