@@ -2,7 +2,7 @@
 
 ## Nosso Compromisso
 
-No interesse de promover um ambiente aberto e acolhedor, nós, como contribuidores e mantenedores, nos comprometemos a fazer da participação em nosso projeto e em nossa comunidade uma experiência livre de assédio para todos, independentemente de idade, tamanho corporal, deficiência, etnia, características sexuais, identidade e expressão de gênero, nível de experiência, educação, status socioeconômico, nacionalidade, aparência pessoal, raça, religião ou identidade e orientação sexual.
+No interesse de promover um ambiente aberto e acolhedor, nós, como pessoas contribuidoras e mantenedoras, nos comprometemos a fazer da participação em nosso projeto e em nossa comunidade uma experiência livre de assédio para todas as pessoas, independentemente de idade, tamanho corporal, deficiência, raça, etnia, identidade e expressão de gênero, nível de experiência, educação, status socioeconômico, nacionalidade, aparência pessoal, religião ou orientação sexual.
 
 ## Nossos Padrões
 
@@ -24,9 +24,9 @@ Exemplos de comportamento inaceitável incluem:
 
 ## Nossas Responsabilidades
 
-Os mantenedores do projeto são responsáveis por esclarecer os padrões de comportamento aceitável e espera-se que tomem ações corretivas apropriadas e justas em resposta a qualquer caso de comportamento inaceitável.
+As pessoas mantenedoras do projeto são responsáveis por esclarecer os padrões de comportamento aceitável e espera-se que tomem ações corretivas apropriadas e justas em resposta a qualquer caso de comportamento inaceitável.
 
-Os mantenedores do projeto têm o direito e a responsabilidade de remover, editar ou rejeitar comentários, commits, código, edições de wiki, issues e outras contribuições que não estejam alinhadas com este Código de Conduta, e comunicarão as razões para decisões de moderação quando apropriado.
+Tais pessoas também têm o direito e a responsabilidade de remover, editar ou rejeitar comentários, commits, código, edições de wiki, issues e outras contribuições que não estejam alinhadas com este Código de Conduta, e comunicarão as razões para decisões de moderação quando apropriado.
 
 ## Escopo
 
@@ -34,9 +34,9 @@ Este Código de Conduta se aplica tanto em espaços do projeto quanto em espaço
 
 ## Aplicação
 
-Casos de comportamento abusivo, de assédio ou inaceitável podem ser reportados entrando em contato com a equipe do projeto. Todas as reclamações serão revisadas e investigadas e resultarão em uma resposta que é considerada necessária e apropriada às circunstâncias. A equipe do projeto é obrigada a manter a confidencialidade em relação ao relator de um incidente. Mais detalhes de políticas específicas de aplicação podem ser postados separadamente.
+Casos de comportamento abusivo, de assédio ou qualquer outro inaceitável, podem ser reportados entrando em contato com a equipe do projeto. Todas as reclamações serão revisadas, investigadas e resultarão em uma resposta que é considerada necessária e apropriada às circunstâncias. A equipe do projeto é obrigada a manter a confidencialidade em relação ao relator de um incidente. Mais detalhes de políticas específicas de aplicação podem ser postados separadamente.
 
-Mantenedores do projeto que não seguem ou aplicam o Código de Conduta de boa fé podem enfrentar repercussões temporárias ou permanentes conforme determinado por outros membros da liderança do projeto.
+Qualquer pessoa mantenedora do projeto que não seguir ou não aplicar o Código de Conduta de boa fé, pode enfrentar repercussões temporárias ou permanentes conforme determinado por outros membros da liderança do projeto.
 
 ## Atribuição
 
@@ -59,4 +59,4 @@ Este código de conduta também se aplica durante o evento presencial. Qualquer 
 
 ---
 
-*Juntos, criamos um ambiente onde todos se sentem bem-vindos e respeitados.* 
+*Juntos, criamos um ambiente onde todas as pessoas se sentem bem-vindas e respeitadas.* 
