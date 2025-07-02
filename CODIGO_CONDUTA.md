@@ -30,6 +30,7 @@ Elas têm o direito e a responsabilidade de remover, editar ou rejeitar comentá
 
 Nosso objetivo sempre será promover educação e reconciliação quando possível, e não apenas punição imediata. Em casos mais graves ou reincidentes, medidas mais firmes poderão ser adotadas.
 
+
 ## Escopo
 
 Este Código de Conduta se aplica a todos os espaços do projeto, assim como a qualquer situação em que alguém esteja representando a comunidade oficialmente — como em eventos, mídias sociais, ou comunicação usando canais oficiais.
@@ -65,4 +66,6 @@ Para perguntas frequentes sobre este código, consulte: https://www.contributor-
 
 ---
 
+
 *Juntas, juntos e juntes, criamos um ambiente onde todas as pessoas se sintam bem-vindas, respeitadas e seguras.*
+
