@@ -1,5 +1,7 @@
 # Configuração do GitHub
 
+> Este guia é voltado para os mantenedores do repositório e pessoas responsáveis pela moderação e estrutura técnica do projeto no GitHub.
+
 Este documento contém instruções para configurar adequadamente o repositório no GitHub.
 
 ## 1. Ativar GitHub Discussions
@@ -19,6 +21,8 @@ Este documento contém instruções para configurar adequadamente o repositório
 - **🎯 Organização**: Discussões sobre logística e planejamento
 
 ## 2. Configurar Templates de Issue
+
+Certifique-se de criar o diretório `.github/ISSUE_TEMPLATE/` se ele ainda não existir.
 
 ### Template para Sugestões:
 Crie um arquivo `.github/ISSUE_TEMPLATE/sugestao.md`:
@@ -75,6 +79,8 @@ assignees: ''
 ## 3. Configurar Templates de Pull Request
 
 Crie um arquivo `.github/pull_request_template.md`:
+
+> O GitHub detecta automaticamente este arquivo para preenchimento automático de novos PRs.
 
 ```markdown
 ## Descrição
@@ -141,6 +147,16 @@ Para criar um site do projeto:
 - **Discord**: Para integração com servidor da comunidade
 - **Email**: Para notificações por email
 
+## ✅ Checklist Final
+
+- [ ] GitHub Discussions ativado
+- [ ] Templates de Issue e PR configurados
+- [ ] Labels criadas e atribuídas
+- [ ] Proteção da branch `main` ativa
+- [ ] Página GitHub Pages (se aplicável)
+- [ ] Alertas de segurança ativados
+- [ ] Integrações conectadas (Slack/Discord)
+
 ---
 
-*Após configurar estas opções, o repositório estará pronto para receber contribuições da comunidade de forma organizada e eficiente.* 
+*Após configurar estas opções, o repositório estará pronto para receber contribuições da comunidade de forma organizada e eficiente.*
